@@ -5,7 +5,7 @@
 | skill      | varsion |
 | ---------- | ------- |
 | TypeScript | 4.5.5   |
-| tailwindcss| 3.0.15. |
+| TailwindCss| 3.0.15  |
 | React      | 17.0.2  |
 | Next       | 12.0.8  |
 | PHP        | 8.0.15  |
